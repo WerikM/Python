@@ -15,7 +15,7 @@ from openpyxl.styles import numbers
 driver = webdriver.Edge()
 
 # Abre o site do Zeta
-driver.get("http://ti-nave.back.b2w:8001/consPedido2")
+driver.get("SITE")
 
 # seleciona o arquivo da planilha
 root = Tk()
