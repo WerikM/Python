@@ -41,7 +41,7 @@ login = easygui.enterbox("Entre com o login:")
 senha = easygui.passwordbox("Entre com a senha:")
 
 # URL do Safra
-url_safra = "https://safra-internal.sac.b2w.io/#/entrega/"
+url_safra = "SITE"
 
 # Percorre as células da coluna A e realiza a navegação para cada valor
 for a in range(2, sheet.max_row+1):
